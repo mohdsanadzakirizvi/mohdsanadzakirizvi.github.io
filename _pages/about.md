@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
   image: sanad_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a Graduate Student Researcher at the [University of Edinburgh](https://www.ed.ac.uk/), where I focus on enhancing factual and faithful reasoning in large language models, advised by [Dr. Pasquale Minervini](https://www.linkedin.com/in/pasquale-minervini-phd-47a08324/). My work includes reducing hallucination in models through RAG, CoT, and contrastive decoding techniques. I am also pursuing my M.S. in Speech and Language Processing (NLP & AI) at the University of Edinburgh.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I served as a Research Engineer at [Google Research India](https://research.google/teams/india-research-lab/) with [Dr. Partha Talukdar](https://research.google/people/parthatalukdar/), concentrating on entity-aware and neural speech translation to improve cross-lingual video access for low-resource languages. Before that, I was with [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) as an NLP Research Engineer, where I developed tools for language identification and code-mixed text generation under the guidance of [Dr. Monojit Choudhury](https://www.linkedin.com/in/monojit-choudhury-54225898/), [Dr. Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/), [Dr. Kalika Bali](https://www.microsoft.com/en-us/research/people/kalikab/) and [Tanuja Ganu](https://www.linkedin.com/in/tanujabapat/).
+
+My early career involved diverse roles, including a Data Scientist position at Analytics Vidhya, where I co-instructed NLP MOOCs and authored [popular technical blogs](https://www.analyticsvidhya.com/blog/author/mohdsanadzakirizvigmail-com/). I graduated with a B.E. in Computer Science and Engineering from Visvesvaraya Technological University in 2018.
+
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
